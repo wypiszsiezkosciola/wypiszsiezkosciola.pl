@@ -1,0 +1,11 @@
+main:
+  - name: "Apostazja"
+    url: "/tematy/apostazja/"
+    weight: 1
+  - name: "Pliki"
+    url: "/pliki/"
+    weight: 3
+  - name: "Sieci Społecznościowe"
+    url: "/sieci-spolecznosciowe/"
+    weight: 4
+
